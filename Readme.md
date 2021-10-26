@@ -9,4 +9,4 @@ O arquivo para execução está do seguinte caminho: **Formulário - Calcular m�
 
 ## Resultado
 
-<img src="Cálculo-Média-C#.gif">
+<img src="Calculo-Media.gif">
