@@ -1,0 +1,8 @@
+C:\Users\Aurelio\Documents\Visual Studio 2010\Projects\Formulário - Calcular média\Formulário - Calcular média\bin\Debug\Formulário - Calcular média.exe
+C:\Users\Aurelio\Documents\Visual Studio 2010\Projects\Formulário - Calcular média\Formulário - Calcular média\bin\Debug\Formulário - Calcular média.pdb
+C:\Users\Aurelio\Documents\Visual Studio 2010\Projects\Formulário - Calcular média\Formulário - Calcular média\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Aurelio\Documents\Visual Studio 2010\Projects\Formulário - Calcular média\Formulário - Calcular média\obj\x86\Debug\Formulário - Calcular média.csproj.GenerateResource.Cache
+C:\Users\Aurelio\Documents\Visual Studio 2010\Projects\Formulário - Calcular média\Formulário - Calcular média\obj\x86\Debug\Formulário - Calcular média.exe
+C:\Users\Aurelio\Documents\Visual Studio 2010\Projects\Formulário - Calcular média\Formulário - Calcular média\obj\x86\Debug\Formulário - Calcular média.pdb
+C:\Users\Aurelio\documents\visual studio 2010\Projects\Formulário - Calcular média\Formulário - Calcular média\obj\x86\Debug\Formulário - Calcular média.csprojResolveAssemblyReference.cache
+C:\Users\Aurelio\Documents\Visual Studio 2010\Projects\Formulário - Calcular média\Formulário - Calcular média\obj\x86\Debug\WindowsFormsApplication1.Media.resources
